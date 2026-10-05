@@ -18,10 +18,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-###
-
-
-###
 
 <div data-importer="image" align="center">
   <img data-importer="image" height="200" src="https://i.pinimg.com/1200x/11/69/c0/1169c02a97e4a30b6d3e721f885b5079.jpg"  />
